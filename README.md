@@ -44,22 +44,6 @@ Below is a summary of the five key assignments, each focusing on different aspec
 - **Libraries**: PyTorch, NumPy, Matplotlib, Scikit-learn
 - **Datasets**: Fashion MNIST, CIFAR-10, Intel Image Classification, Persian Wikipedia Corpus
 
-## How to Run
-1. Clone the repository:
-   ```
-   git clone https://github.com/katayoun-kobraei/ANN-assignments.git
-   cd ANN-assignments
-   ```
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Navigate to the desired assignment folder and execute the notebooks/scripts:
-   ```
-   cd Assignment1
-   python main.py
-   ```
-
 ## Contact
 For any questions, suggestions, or discussions related to these assignments, feel free to open an issue or join the conversation in the repository discussions section.
 
