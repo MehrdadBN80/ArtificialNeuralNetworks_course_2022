@@ -15,7 +15,7 @@ Below is a summary of the five key assignments, each focusing on different aspec
    **Key Concepts**:  
    Regularization (L1, L2), Overfitting prevention, Dropout, Early stopping, Batch normalization.
 
-   **Separate repository link:**: https://github.com/MehrdadBN80/CIFAR10-CNN 
+   **Separate repository link:** https://github.com/MehrdadBN80/CIFAR10-CNN 
    
 3. **Assignment 2: Convolutional Neural Networks (CNN) and Symmetry Breaking**
    - Focus: Exploring CNN architecture with an emphasis on backpropagation, symmetry breaking, and pooling layers.
@@ -23,7 +23,7 @@ Below is a summary of the five key assignments, each focusing on different aspec
    **Key Concepts**:  
    CNNs, Backpropagation, Pooling layers, Activation functions, and Cost functions.
 
-   **Separate repository link:**: https://github.com/MehrdadBN80/Classifying-Fashion-MNIST
+   **Separate repository link:** https://github.com/MehrdadBN80/Classifying-Fashion-MNIST
    
 5. **Assignment 3: Advanced Architectures - EfficientNet, ResNext, and Inception-ResNet**
    - Focus: Studying state-of-the-art architectures like EfficientNet, ResNext, and Inception-ResNet, with a focus on transfer learning techniques.
@@ -31,7 +31,7 @@ Below is a summary of the five key assignments, each focusing on different aspec
    **Key Concepts**:  
    Transfer learning, EfficientNet, ResNext, Inception-ResNet, Wide Residual Networks (WRNs), DenseNet.#
 
-   **Separate repository link:**: https://github.com/MehrdadBN80/ResNet-Intel-image-classification
+   **Separate repository link:** https://github.com/MehrdadBN80/ResNet-Intel-image-classification
    
 7. **Assignment 4: Variational Autoencoders (VAEs)**
    - Focus: Delving into variational autoencoders, exploring their ability to generate new data points from latent space.
@@ -39,7 +39,7 @@ Below is a summary of the five key assignments, each focusing on different aspec
    **Key Concepts**:  
    Variational autoencoders, KL-Divergence, Generative models, Latent space.
 
-   **Separate repository link:**: https://github.com/MehrdadBN80/AutoEncoder_U-net_Cifar10_Image_Reconstruction
+   **Separate repository link:** https://github.com/MehrdadBN80/AutoEncoder_U-net_Cifar10_Image_Reconstruction
    
 8. **Assignment 5: Recurrent Neural Networks (RNN) and Persian Language Model**
    - Focus: Implementing RNNs, including stateful and stateless architectures, and building a Persian language model using an encoder-decoder approach.
@@ -47,7 +47,7 @@ Below is a summary of the five key assignments, each focusing on different aspec
    **Key Concepts**:  
    Stateful and stateless RNNs, Encoder-decoder architecture, Gated RNN cells, Persian language model, Perplexity.
 
-   **Separate repository link:**: https://github.com/MehrdadBN80/Persian_WikiText_Text_prediction_LSTM
+   **Separate repository link:** https://github.com/MehrdadBN80/Persian_WikiText_Text_prediction_LSTM
 
 ## Technologies and Tools
 - **Programming Language**: Python
